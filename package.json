@@ -12,9 +12,12 @@
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
     "framer-motion": "^12.23.3",
+    "install": "^0.13.0",
+    "npm": "^11.4.2",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-redux": "^9.2.0",
+    "react-router-dom": "^7.6.3",
     "sweetalert2": "^11.22.2"
   },
   "devDependencies": {
